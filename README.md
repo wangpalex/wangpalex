@@ -17,4 +17,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
 </div>
 
+## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=wangpalex&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
